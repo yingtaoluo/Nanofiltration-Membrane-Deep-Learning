@@ -1,0 +1,5 @@
+choice,rejection
+data,0
+device,cuda
+init,start
+save,True

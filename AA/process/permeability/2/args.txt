@@ -1,0 +1,5 @@
+choice,permeability
+data,2
+device,cuda
+init,start
+save,True

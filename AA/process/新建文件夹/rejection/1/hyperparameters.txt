@@ -1,0 +1,1 @@
+Adam,lr:1e-3,batch:200,seed:1,400-100-20-1,weight_decay:1e-3

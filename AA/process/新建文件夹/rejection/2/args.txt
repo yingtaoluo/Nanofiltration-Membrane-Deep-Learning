@@ -1,0 +1,6 @@
+choice,rejection
+data,2
+init,start
+manual_init,True
+optim,adam
+save,True

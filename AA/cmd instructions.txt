@@ -1,0 +1,30 @@
+cmd --> command line
+(In windows operating system, right click win and left click run, tab "cmd" and enter.)
+
+Use command line (argparse) to train or plot.
+Some examples are given as follows to help you get start.
+
+train:(rejection)
+cd PycharmProjects
+cd interfacial_polymerization
+python train.py permeability start 4
+
+train:(permeability)
+cd PycharmProjects
+cd interfacial_polymerization
+python train.py permeability start s
+
+plot:(alone)
+cd PycharmProjects
+cd interfacial_polymerization
+python plot.py permeability alone --data 4
+
+plot:(together)
+cd PycharmProjects
+cd interfacial_polymerization
+python plot.py permeability together --interval 100
+
+plot:(correlation)
+cd PycharmProjects
+cd interfacial_polymerization
+python plot.py permeability correlation --data s --num 1000

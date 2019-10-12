@@ -1,0 +1,7 @@
+choice,rejection
+data,78_1
+device,cuda
+init,start
+manual_init,False
+optim,adam
+save,True

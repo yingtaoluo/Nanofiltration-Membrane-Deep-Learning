@@ -1,0 +1,7 @@
+choice,permeability
+data,1
+device,cuda
+init,start
+manual_init,False
+optim,adam
+save,True
