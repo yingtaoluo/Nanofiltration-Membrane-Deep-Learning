@@ -9,8 +9,11 @@ School of Chemistry and Chemical Engineering,
 Huazhong University of Science and Technology,  
 Wuhan 430074 China.  
 ## Author Contact Information
-Corresponding Author: Qiang Zhao (zhaoq@hust.edu.cn)
+Corresponding Author: Qiang Zhao (zhaoq@hust.edu.cn)  
 Technical Request: Yingtao Luo (yingtao.luo@columbia.edu)
 ## Prerequisite Environment (Recommended)
-VS 2017, CUDA 9.0, cudnn 7.4.2, python 3.6, numpy 1.14.5, pytorch 1.12.0, matplotlib 3.0.3, argparse 1.4.0  
+Visual Studio 2017, CUDA 9.0, cudnn 7.4.2, python 3.6, numpy 1.14.5, pytorch 1.12.0, matplotlib 3.0.3, argparse 1.4.0  
 ## Instruction Manual
+
+## Data Availability
+We provide ready-made data and codes for data generation in this link:  https://pan.baidu.com/s/1_EU6w0xVxbzKk-YRX1l3PA  
