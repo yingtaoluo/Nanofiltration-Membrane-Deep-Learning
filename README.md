@@ -18,4 +18,5 @@ We provide codes for neural network training in the repository.
 Because Argparse package is used, only by Command Prompt or Shell can you run the code. You could vary the variables in the Command Prompt in order to modify the program mode, such as training, plotting, etc. To help those who are not familiar with arg**, text file named "cmd instructions" has been included in the repository.  
 After downloading the data, you need to modify the data path in the python file "train.py" before running the codes. 
 ## Data Availability
-We provide ready-made data and codes for data generation in this link:  https://pan.baidu.com/s/1_EU6w0xVxbzKk-YRX1l3PA  
+We provide ready-made data and codes for data generation in this link:  
+https://pan.baidu.com/s/1_EU6w0xVxbzKk-YRX1l3PA  
