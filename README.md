@@ -6,7 +6,7 @@ Spatial geometry-based **feature engineering & data augmentation** methods.
 ## Abstract  
 Membrane technologies are playing enabling roles in tackling today’s global challenges including water scarcity and energy efficiency, yet the development of advanced membrane materials is halted by trial-and-error principles. To guide the engineering of nanofiltration membranes, we developed a prequalification system based on reported membranes that can predict the rejection and flux of novel membranes. We proposed a geometric feature engineering paradigm to extract membrane features for the end-to-end learning representation of neural network. Also, chemical distorting methods were pioneered to augment the membrane dataset without compromising its chemical features, which eliminated the scarcity of reported data. In the model evaluation, the convergence of loss during training indicated optimization effectiveness and the Pearson correlation coefficient exceeding 0.8 proved a strong correlation between model prediction and real value. These contributions can increase the efficiency of nanofiltration membranes preparation and inspire the application of artificial intelligence to limited chemical data.  
 ## Author & Affiliation Statement
-Ziyang Zhang, Yingtao Luo, Huawen Peng, Yu Chen*, Rongzhen Liao*, Qiang Zhao*.  
+Ziyang Zhang#, Yingtao Luo#, Huawen Peng, Yu Chen*, Rongzhen Liao*, Qiang Zhao*.  
 School of Chemistry and Chemical Engineering,  
 Huazhong University of Science and Technology,  
 Wuhan 430074 China.  
