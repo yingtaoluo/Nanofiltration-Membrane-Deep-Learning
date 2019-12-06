@@ -25,3 +25,5 @@ After downloading the data, you need to modify the data path in the python file 
 ## Data Availability
 We provide ready-made data and codes for data generation in this link:  
 https://pan.baidu.com/s/1_EU6w0xVxbzKk-YRX1l3PA  
+## Poster Presentation
+![image](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning/edit/master/POSTER CHEM.jpg)
