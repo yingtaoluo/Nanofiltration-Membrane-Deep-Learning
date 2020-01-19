@@ -27,4 +27,4 @@ We provide ready-made data and codes for data generation in this link:
 https://pan.baidu.com/s/1_EU6w0xVxbzKk-YRX1l3PA  
 ## Poster Presentation
 This poster (.jpg) is already in this repository for download.
-![image](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning/blob/master/POSTER%20CHEM.jpg)
+![image](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning/blob/master/POSTER%20Nano-Mem-DL.jpg)
