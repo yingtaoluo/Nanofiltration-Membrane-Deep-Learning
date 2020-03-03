@@ -1,5 +1,5 @@
 # Nanofiltration-Membrane-Deep-Learning
-It is a completed interdisciplinary research project submitted to Communications Materials.  
+It is a completed interdisciplinary research project.  
 Main contributions include:  
 **Deep learning** based nanofiltration membrane performance prediction system.  
 Spatial geometry-based **feature engineering & data augmentation** methods.
