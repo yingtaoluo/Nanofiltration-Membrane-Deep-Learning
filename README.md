@@ -13,9 +13,6 @@ Ziyang Zhang1#, Yingtao Luo2#, Huawen Peng1, Yu Chen3*, Rong-Zhen Liao1*, Qiang 
 3 State Key Laboratory of Advanced Electromagnetic Engineering and Technology (AEET), also School of Electrical and Electronics Engineering (SEEE), Huazhong University of Science and Technology, Wuhan 430074 China.  
   
 #These authors contributed equally: Ziyang Zhang, Yingtao Luo  
-## Author Contact Information
-Corresponding Author: Qiang Zhao (zhaoq@hust.edu.cn)  
-For technical assistance please contact Yingtao Luo (yingtao.luo@columbia.edu)
 ## Prerequisite Environment (Recommended)
 Visual Studio 2017, CUDA 9.0, cudnn 7.4.2, python 3.6, numpy 1.14.5, pytorch 1.12.0, matplotlib 3.0.3, argparse 1.4.0  
 ## Instruction Manual
