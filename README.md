@@ -2,7 +2,7 @@
 It is a completed interdisciplinary research project.  
 Main contributions include:  
 **Deep learning** based nanofiltration membrane performance prediction system.  
-Spatial geometry-based **feature engineering & data augmentation** methods. 
+Spatial geometry-based **representation & molecular augmentation** methods. 
 ## Prerequisite Environment (Recommended)
 Visual Studio 2017, CUDA 9.0, cudnn 7.4.2, python 3.6, numpy 1.14.5, pytorch 1.12.0, matplotlib 3.0.3, argparse 1.4.0  
 ## Instruction Manual
